@@ -84,4 +84,55 @@
             }
 
             p {
-                font
+                font-size: 16px;
+            }
+
+            .gif-container img {
+                width: 180px;
+            }
+
+            .heart {
+                font-size: 50px;
+            }
+        }
+
+        @media screen and (max-width: 1024px) {
+            h1 {
+                font-size: 32px;
+            }
+
+            p {
+                font-size: 18px;
+            }
+
+            .gif-container img {
+                width: 200px;
+            }
+
+            .heart {
+                font-size: 55px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Buenos Dias mi Reina!</h1>
+    
+    <p> Te deseo un Feliz Cumpleaños!🎉..</p>
+    <p> Espero que tengas un dia increible, lleno de alegria y momentos especiales.🌟</p>
+    <p> Que este nuevo año de vida te traiga muchas cosas bonitas! (quien sabe, talvez hasta un libro de mathematica 😋) </p>
+    <p> Y que tu sonrisa nunca se apague y la felicidad te acompañe siempre </p>
+    <p> Saludos, Bray </p>
+    
+    <p class="heart">💖</p>
+
+    <div class="gif-container">
+        <img src="https://media.giphy.com/media/t5PLAQ0eD3te4PXOxq/giphy.gif" alt="Pinata hitting gif">
+    </div>
+
+    <audio controls autoplay loop>
+        <source src="https://www.bensound.com/bensound-music/bensound-romantic.mp3" type="audio/mp3">
+        Dein Browser unterstützt keine Audio-Wiedergabe.
+    </audio>
+</body>
+</html>
