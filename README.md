@@ -121,7 +121,7 @@
     <p> Te deseo un Feliz Cumpleaños!🎉</p>
     <p> Espero que tengas un dia increible, lleno de alegria y momentos especiales.🌟</p>
     <p> Que este nuevo año de vida te traiga muchas cosas bonitas! (quien sabe, talvez hasta un libro de mathematica 😋) </p>
-    <p> Vaya.. casi casi tu tambien serás una señora jajaj..  </p>
+    <p> Vaya 27.. casi casi tu tambien serás una señora jajaj..  </p>
     <p> Que tu sonrisa hermosa nunca se apague y la felicidad siempre te acompañe! </p>
     <p> Saludos, Bray </p>
     
