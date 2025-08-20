@@ -131,7 +131,7 @@
     </div>
 
     <audio controls autoplay loop>
-        <source src="https://archive.org/download/HappyBirthdayToYou_201407/Happy_Birthday_To_You.mp3" type="audio/mp3">
+        <source src="https://cdn.pixabay.com/audio/2022/04/18/audio_84531862ac.mp3" type="audio/mp3">
         Dein Browser unterstützt keine Audio-Wiedergabe.
     </audio>
 </body>
