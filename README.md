@@ -124,14 +124,14 @@
     <p> Y que tu sonrisa nunca se apague y la felicidad te acompañe siempre </p>
     <p> Saludos, Bray </p>
     
-    <p class="heart">💖</p>
+    <p class="heart">🎂</p>
 
     <div class="gif-container">
         <img src="https://media.giphy.com/media/t5PLAQ0eD3te4PXOxq/giphy.gif" alt="Pinata hitting gif">
     </div>
 
     <audio controls autoplay loop>
-        <source src="https://www.bensound.com/bensound-music/bensound-long-night.mp3" type="audio/mp3">
+        <source src="https://www.bensound.com/bensound-music/bensound-romantic.mp3" type="audio/mp3">
         Dein Browser unterstützt keine Audio-Wiedergabe.
     </audio>
 </body>
