@@ -131,7 +131,7 @@
     </div>
 
     <audio controls autoplay loop>
-        <source src="https://www.chosic.com/wp-content/uploads/2021/04/Happy-Birthday-Acoustic-Guitar-Solo-Short-Version.mp3" type="audio/mp3">
+        <source src="https://archive.org/download/HappyBirthdayToYou_201407/Happy_Birthday_To_You.mp3" type="audio/mp3">
         Dein Browser unterstützt keine Audio-Wiedergabe.
     </audio>
 </body>
