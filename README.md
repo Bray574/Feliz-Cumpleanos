@@ -117,12 +117,13 @@
     </style>
 </head>
 <body>
-    <h1>Für d'Frau mit em herzige Dutt!</h1>
+    <h1>Buenos Dias mi Reina!</h1>
     
-    <p> The best people come unexpectedly..</p>
-    <p> You were like a shot of espresso, energetic, enthusiastic with a sweet smile.🌟</p>
-    <p> Have a nice Valentines Day, Melissa </p>
-    <p> Best regards Brayniel </p>
+    <p> Te deseo un Feliz Cumpleaños!🎉..</p>
+    <p> Espero que tengas un dia increible, lleno de alegria y momentos especiales.🌟</p>
+    <p> Que este nuevo año de vida te traiga muchas cosas bonitas! (quien sabe, talvez hasta un libro de mathematica 😋) </p>
+    <p> Y que tu sonrisa nunca se apague y la felicidad te acompañe siempre </p>
+    <p> Saludos, Bray </p>
     
     <p class="heart">💖</p>
 
